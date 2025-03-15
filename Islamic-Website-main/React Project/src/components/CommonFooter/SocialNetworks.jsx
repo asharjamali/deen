@@ -9,19 +9,36 @@ export default function SocialNetworks() {
         <Box
             component="div"
             sx={{ display: 'flex', mt: 1, justifyContent: 'center', alignItems: 'center', gap: 2 }}>
-            <a href="https://www.facebook.com/shawky.ebrahim.ahmed" target="_blank" rel="noreferrer">
+            <a href="https://www.facebook.com/ashhar.jamali.792?mibextid=ZbWKwL" target="_blank" rel="noreferrer">
                 <FacebookRoundedIcon />
             </a>
 
-            <a href="https://www.linkedin.com/in/shawkyebrahim2514/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/ashhar-jamali-5322642a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
                 <LinkedInIcon />
             </a>
 
-            <a href="https://t.me/shawkyebrahim2514" target="_blank" rel="noreferrer">
+            <a href="Instagram 
+https://www.instagram.com/ashar_jamali/profilecard/?igsh=MXYyOWMzcmZucHFoNQ==
+
+
+Twitter 
+https://x.com/AshharJama?t=TS49z_i9vcKQbPRaq48MAg&s=08
+
+
+Facebook 
+https://www.facebook.com/ashhar.jamali.792?mibextid=ZbWKwL
+
+
+Linkdin 
+https://www.linkedin.com/in/ashhar-jamali-5322642a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+Wtsp
+https://wa.me/918789750226" target="_blank" rel="noreferrer">
                 <TelegramIcon />
             </a>
-            
-            <a href="https://github.com/shawkyebrahim2514" target="_blank" rel="noreferrer">
+
+            <a href="https://wa.me/918789750226" target="_blank" rel="noreferrer">
                 <GitHubIcon />
             </a>
         </Box>

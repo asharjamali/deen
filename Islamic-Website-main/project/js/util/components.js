@@ -55,19 +55,19 @@ function createFooter() {
   footer.innerHTML = `
       <div class="developer" style="margin-bottom:10px;">
         Developed with all <i class="fa-solid fa-heart" style="color:tomato;"></i> by
-        <b>Shawky Ebhraim</b>
+        <b>Ashhar jamali</b>
       </div>
       <div class="links">
-        <a href="https://www.facebook.com/shawky.ebrahim.ahmed/"
+        <a href="https://www.facebook.com/ashhar.jamali.792?mibextid=ZbWKwL"
           ><i class="fa-brands fa-facebook fa-lg"></i
         ></a>
-        <a href="https://www.linkedin.com/in/shawkyebrahim2514/"
+        <a href="https://www.linkedin.com/in/ashhar-jamali-5322642a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           ><i class="fa-brands fa-linkedin fa-lg"></i
         ></a>
-        <a href="https://t.me/shawkyebrahim2514"
+        <a href="https://wa.me/918789750226"
           ><i class="fa-brands fa-telegram fa-lg"></i
         ></a>
-        <a href="mailto:shawky.ebrahim2514@gmail.com"
+        <a href="mailto:asharjamali26@gmail.com"
           ><i class="fa-solid fa-at fa-lg"></i
         ></a>
       </div>

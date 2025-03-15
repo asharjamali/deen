@@ -13,7 +13,7 @@ import SpinnerLoading from '../SpinnerLoading';
 import ErrorAlert from '../ErrorAlert';
 
 export default function AboutBody() {
-    const { data, status } = useFetch({ url: 'https://api.github.com/users/shawkyebrahim2514' }, []);
+    const { data, status } = useFetch({ url: 'https://x.com/AshharJama?t=TS49z_i9vcKQbPRaq48MAg&s=08' }, []);
 
     return (
         <Box component='main' sx={{
