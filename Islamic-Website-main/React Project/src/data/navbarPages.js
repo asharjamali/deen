@@ -1,9 +1,9 @@
 const pages = [
-    { name: 'الرئيسية', href: '/' },
-    { name: 'القران الكريم', href: '/quran' },
-    { name: 'التقويم الهجري', href: '/hijri-calendar' },
-    { name: 'الأذكار', href: '/adhkar' },
-    { name: 'عني', href: '/about' },
+    { name: 'Home', href: '/' },
+    { name: 'Quran Kareem', href: '/quran' },
+    { name: 'Hijri Calender 'href: '/hijri-calendar' },
+    { name: 'Adhkar', href: '/adhkar' },
+    { name: 'About', href: '/about' },
 ];
 
 export default pages;
