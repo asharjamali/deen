@@ -13,7 +13,7 @@ export default function Phrase() {
             <Typography
                 variant="body1"
                 sx={{ fontSize: '22px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                by Shawky Ebrahim
+                by Ashhar jamali
             </Typography>
         </Box>
     )

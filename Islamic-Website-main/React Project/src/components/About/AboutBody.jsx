@@ -41,7 +41,7 @@ export default function AboutBody() {
                         <CardMedia
                             component="img"
                             src={data.avatar_url}
-                            alt="Shawky Ebrahim Ahmed"
+                            alt="Ashhar jamali"
                             sx={{
                                 width: 200,
                                 height: 200,
@@ -101,25 +101,25 @@ export default function AboutBody() {
                         >
                             <IconButton
                                 target='_blank'
-                                href="https://www.facebook.com/shawky.ebrahim.ahmed">
+                                href="https://www.facebook.com/ashhar.jamali.792?mibextid=ZbWKwL">
                                 <Facebook />
                             </IconButton>
 
                             <IconButton
                                 target='_blank'
-                                href="https://t.me/shawkyebrahim2514">
+                                href="https://x.com/AshharJama?t=TS49z_i9vcKQbPRaq48MAg&s=08">
                                 <Telegram />
                             </IconButton>
 
                             <IconButton
                                 target='_blank'
-                                href="https://www.linkedin.com/in/shawkyebrahim2514">
+                                href="https://www.linkedin.com/in/ashhar-jamali-5322642a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                                 <LinkedIn />
                             </IconButton>
 
                             <IconButton
                                 target='_blank'
-                                href="https://github.com/shawkyebrahim2514">
+                                href="https://www.instagram.com/ashar_jamali/profilecard/?igsh=MXYyOWMzcmZucHFoNQ==">
                                 <GitHub />
                             </IconButton>
                         </Stack>
