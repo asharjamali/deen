@@ -7,7 +7,7 @@ export default function MobileLogo() {
             <Box sx={{ flexGrow: 1, display: { xs: 'grid', md: 'none' } }}>
                 <Box
                     component='img'
-                    src='/build/navbar-logo.png'
+                    src='/svg/navbar-logo.png'
                     sx={{
                         width: 115,
                         filter: 'drop-shadow(2px 2px 2px #170f052e)',
