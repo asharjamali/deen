@@ -16,7 +16,7 @@ export default function HomeHeader() {
                     position: 'absolute',
                     width: '100%',
                     height: '100%',
-                    backgroundImage: 'url(images/home-header.jpg)',
+                    backgroundImage: 'url(images/home-headerx.jpg)',
                     backgroundRepeat: 'no-repeat',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
