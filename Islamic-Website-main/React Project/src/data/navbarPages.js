@@ -3,7 +3,7 @@ const pages = [
     { name: "Quran Kareem", href: "/quran" },
     { name: "Hijri Calendar", href: "/hijri-calendar" },
     { name: "Adhkar", href: "/adhkar" },
-    { name: "About", href: "/about" },
+
 ];
 
 export default pages;
